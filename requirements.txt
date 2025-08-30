@@ -1,0 +1,14 @@
+PyMuPDF
+python-docx
+pdfplumber
+sentence-transformers
+python-dotenv
+
+groq 
+pytesseract
+watchdog  
+pdf2image
+python-docx 
+docx2txt 
+"pip<24.1"
+textract
